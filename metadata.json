@@ -1,0 +1,6 @@
+{
+  "name": "JSScrap — Jishan Scrap",
+  "description": "Vehicle scrapping, car scrapping, bike and scooty scrapping services across Delhi NCR by Jishan Scrap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
